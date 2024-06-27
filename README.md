@@ -1,4 +1,4 @@
-# Implementing AI-driven Techniques for Monitoring of Bee activities in Hives
+# Implementing AI-driven Techniques for Monitoring Bee activities in Hives
 
 ## Abstract
 In light of the significant decline in honey bee populations worldwide, our research aims to enhance bee conservation efforts through advanced artificial intelligence techniques. 
