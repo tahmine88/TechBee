@@ -5,7 +5,7 @@ In light of the significant decline in honey bee populations worldwide, our rese
 We have developed a deep learning model designed to monitor bees within hives effectively. 
 This model is adept at identifying bees infected with Varroa mites and detecting various bee activities, which are critical for managing bee health and supporting biodiversity. 
 Our work contributes to the sustainable development of ecosystems, improved agricultural productivity, and the advancement of the honey industry. 
-Visit our [project website](https://sites.google.com/view/tahminedehghanmanshadi/deep-learning/techbee1) for more information.
+
 
 
 ## Project Description
